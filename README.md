@@ -22,6 +22,7 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0455-assign-cookies/) | Easy |
+| [0611-valid-triangle-number](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0611-valid-triangle-number/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Hash Table
@@ -39,6 +40,7 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0455-assign-cookies/) | Easy |
 | [0567-permutation-in-string](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0567-permutation-in-string/) | Medium |
+| [0611-valid-triangle-number](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0611-valid-triangle-number/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -48,10 +50,12 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0455-assign-cookies/) | Easy |
+| [0611-valid-triangle-number](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0611-valid-triangle-number/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0455-assign-cookies/) | Easy |
+| [0611-valid-triangle-number](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0611-valid-triangle-number/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -60,5 +64,6 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0611-valid-triangle-number](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0611-valid-triangle-number/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 <!---LeetCode Topics End-->
