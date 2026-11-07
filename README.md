@@ -48,6 +48,7 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 | ------- | ------- |
 | [0567-permutation-in-string](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0567-permutation-in-string/) | Medium |
 | [3110-score-of-a-string](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3110-score-of-a-string/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,4 +74,8 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 | ------- | ------- |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 <!---LeetCode Topics End-->
