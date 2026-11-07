@@ -5,7 +5,6 @@ class Solution {
             char ch=s.charAt(i);
             int rev=((int)ch-'a');
             rev=Math.abs(rev-26);
-            System.out.println(rev);
             sum=sum+(rev*(i+1));
         }
         return sum;
