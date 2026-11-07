@@ -25,6 +25,7 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 | [0611-valid-triangle-number](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0611-valid-triangle-number/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,4 +72,5 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 <!---LeetCode Topics End-->
