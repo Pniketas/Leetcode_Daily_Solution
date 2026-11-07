@@ -67,4 +67,8 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 | ------- | ------- |
 | [0611-valid-triangle-number](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0611-valid-triangle-number/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 <!---LeetCode Topics End-->
