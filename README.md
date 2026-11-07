@@ -72,6 +72,7 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2769-find-the-maximum-achievable-number](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
