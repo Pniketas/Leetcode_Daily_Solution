@@ -31,6 +31,7 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 | ------- | ------- |
 | [0567-permutation-in-string](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0567-permutation-in-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +51,7 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 | [0567-permutation-in-string](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0567-permutation-in-string/) | Medium |
 | [3110-score-of-a-string](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3110-score-of-a-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
