@@ -21,6 +21,7 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0455-assign-cookies](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0455-assign-cookies/) | Easy |
 | [0611-valid-triangle-number](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0611-valid-triangle-number/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -90,4 +91,8 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/2396-strictly-palindromic-number/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
