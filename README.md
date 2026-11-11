@@ -95,4 +95,12 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0238-product-of-array-except-self/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0338-counting-bits](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0338-counting-bits/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0338-counting-bits](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0338-counting-bits/) | Easy |
 <!---LeetCode Topics End-->
