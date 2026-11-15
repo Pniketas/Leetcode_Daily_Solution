@@ -25,6 +25,7 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 | [0455-assign-cookies](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0455-assign-cookies/) | Easy |
 | [0611-valid-triangle-number](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0611-valid-triangle-number/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3895-count-digit-appearances](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3895-count-digit-appearances/) | Medium |
@@ -51,6 +52,7 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0567-permutation-in-string](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0567-permutation-in-string/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3110-score-of-a-string](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3110-score-of-a-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
