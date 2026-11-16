@@ -21,6 +21,7 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0455-assign-cookies](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0455-assign-cookies/) | Easy |
 | [0611-valid-triangle-number](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0611-valid-triangle-number/) | Medium |
@@ -59,6 +60,7 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0455-assign-cookies/) | Easy |
 | [0611-valid-triangle-number](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0611-valid-triangle-number/) | Medium |
 ## Sorting
@@ -100,6 +102,7 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0338-counting-bits](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0338-counting-bits/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
