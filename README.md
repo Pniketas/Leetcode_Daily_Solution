@@ -56,6 +56,7 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 | ------- | ------- |
 | [0567-permutation-in-string](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0567-permutation-in-string/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3110-score-of-a-string](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3110-score-of-a-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
