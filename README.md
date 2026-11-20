@@ -51,6 +51,7 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 | [0611-valid-triangle-number](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0611-valid-triangle-number/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/2396-strictly-palindromic-number/) | Medium |
+| [3794-reverse-string-prefix](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3794-reverse-string-prefix/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +62,7 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 | [3110-score-of-a-string](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3110-score-of-a-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
+| [3794-reverse-string-prefix](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
