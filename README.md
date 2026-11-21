@@ -31,6 +31,7 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3895-count-digit-appearances](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3895-count-digit-appearances/) | Medium |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,4 +124,12 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0496-next-greater-element-i/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 <!---LeetCode Topics End-->
