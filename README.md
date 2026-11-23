@@ -63,6 +63,7 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0567-permutation-in-string](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0567-permutation-in-string/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
@@ -131,6 +132,7 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0682-baseball-game/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
