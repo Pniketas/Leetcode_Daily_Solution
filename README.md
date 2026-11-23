@@ -26,6 +26,7 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 | [0455-assign-cookies](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0611-valid-triangle-number](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0611-valid-triangle-number/) | Medium |
+| [0682-baseball-game](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0682-baseball-game/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -102,6 +103,7 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0682-baseball-game](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0682-baseball-game/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -126,6 +128,7 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0496-next-greater-element-i/) | Easy |
+| [0682-baseball-game](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0682-baseball-game/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
