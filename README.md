@@ -62,6 +62,7 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0567-permutation-in-string](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0567-permutation-in-string/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -130,6 +131,7 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0682-baseball-game/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -146,4 +148,8 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
