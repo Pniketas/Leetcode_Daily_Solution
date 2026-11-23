@@ -28,6 +28,7 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 | [0611-valid-triangle-number](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0611-valid-triangle-number/) | Medium |
 | [0682-baseball-game](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0682-baseball-game/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -104,6 +105,7 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0682-baseball-game/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -129,6 +131,7 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0682-baseball-game/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
