@@ -78,6 +78,7 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 | [3110-score-of-a-string](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3110-score-of-a-string/) | Easy |
 | [3174-clear-digits](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3174-clear-digits/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Greedy
@@ -153,6 +154,7 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 | [2000-reverse-prefix-of-word](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3174-clear-digits](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3174-clear-digits/) | Easy |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,4 +172,8 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0020-valid-parentheses/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 <!---LeetCode Topics End-->
