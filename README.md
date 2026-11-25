@@ -31,6 +31,7 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 | [0946-validate-stack-sequences](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -144,11 +145,13 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 | [0946-validate-stack-sequences](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0496-next-greater-element-i/) | Easy |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
