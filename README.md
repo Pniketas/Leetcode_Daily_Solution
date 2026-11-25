@@ -75,6 +75,7 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3110-score-of-a-string](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3110-score-of-a-string/) | Easy |
+| [3174-clear-digits](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3174-clear-digits/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3794-reverse-string-prefix/) | Easy |
@@ -117,6 +118,7 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 | [1441-build-an-array-with-stack-operations](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [3174-clear-digits](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3174-clear-digits/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -147,6 +149,7 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 | [1441-build-an-array-with-stack-operations](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [3174-clear-digits](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3174-clear-digits/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
