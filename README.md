@@ -45,6 +45,7 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 | [0496-next-greater-element-i](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/0567-permutation-in-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3146-permutation-difference-between-two-strings](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3668-restore-finishing-order/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Sliding Window
@@ -77,6 +78,7 @@ The purpose of this repository is to maintain consistency in problem-solving, st
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3110-score-of-a-string](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3110-score-of-a-string/) | Easy |
+| [3146-permutation-difference-between-two-strings](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3174-clear-digits](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3174-clear-digits/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Pniketas/Leetcode_Daily_Solution/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
